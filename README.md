@@ -56,4 +56,4 @@ to create an automated pipeline that takes in new data, performs the appropriate
 
 # Summary
 
-Movies ETL Analysis Complete from Wiki, Kaggle and MovieLens
+Movies ETL Analysis complete using resources from Wiki, Kaggle and MovieLens
