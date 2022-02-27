@@ -13,3 +13,11 @@ to create an automated pipeline that takes in new data, performs the appropriate
 3: Extract and Transform the Kaggle data
 4: Create the Movie Database
 
+# Files
+
+
+1. ETL Deliverable 1 starter code 
+
+2. ETL Deliverable 2 starter code 
+
+3. ETL Deliverable 3 starter code
