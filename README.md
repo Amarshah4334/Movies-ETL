@@ -51,5 +51,9 @@ to create an automated pipeline that takes in new data, performs the appropriate
 ![image](https://user-images.githubusercontent.com/96351897/155870113-4aa65bc7-b248-4cb2-a027-895aaddfe5be.png)
 
 
-![image](https://user-images.githubusercontent.com/96351897/155870165-21986b85-5ef7-4db5-af72-e956ee519331.png)
+![image](https://user-images.githubusercontent.com/96351897/155870775-137f40ea-081c-4f2b-9f28-89d0b782eeaf.png)
 
+
+# Summary
+
+Movies ETL Analysis Complete from Wiki, Kaggle and MovieLens
