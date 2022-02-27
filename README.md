@@ -53,3 +53,5 @@ to create an automated pipeline that takes in new data, performs the appropriate
 
 ![image](https://user-images.githubusercontent.com/96351897/155870165-21986b85-5ef7-4db5-af72-e956ee519331.png)
 
+# Summary
+
